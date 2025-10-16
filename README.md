@@ -22,6 +22,7 @@ Thuật toán tham lam, chỉ chọn hướng di chuyển tốt nhất tại m�
 
 ### 4. **Forward tracking**
 Kiểm tra các hướng đi để tìm đường đến thức ăn.
+### 5. **Demo thuật toán**
 https://github.com/user-attachments/assets/001d0b65-1a7d-4432-80d7-c16a57cb3c17
 
 
@@ -35,4 +36,20 @@ https://github.com/user-attachments/assets/216f4dcf-11e3-4dd8-b564-5fe812ff2c03
 
 
 https://github.com/user-attachments/assets/e12d4d06-76d7-46eb-9dfc-adca8fb0bf91
+### 6. **Cách cài đặt**
+HƯỚNG DẪN CHẠY DỰ ÁN SNAKE AI (Snake Ai game)
+--------------------------------------------------------
+1) Tạo môi trường ảo:
+   python -m venv venv
+2) Kích hoạt (PowerShell):
+   .\venv\Scripts\Activate.ps1
+   Nếu bị chặn: mở PowerShell (Run as Admin) và chạy:
+   Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+3) Cài thư viện:
+   pip install -r requirements.txt
+4) Chạy menu chính (Pygame):
+   python main.py
+5) Chạy benchmark (xuất results.csv và results.png):
+   python benchmark.py
+
 
