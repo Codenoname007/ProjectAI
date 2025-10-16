@@ -1,4 +1,4 @@
-HƯỚNG DẪN CHẠY DỰ ÁN SNAKE AI (PIXEL FINAL V3 - TIẾNG VIỆT)
+HƯỚNG DẪN CHẠY DỰ ÁN SNAKE AI (Snake Ai game)
 --------------------------------------------------------
 1) Tạo môi trường ảo:
    python -m venv venv
