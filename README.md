@@ -1,4 +1,5 @@
 
+
 # Snake AI - Dự án AI điều khiển rắn
 
 ## Giới thiệu
@@ -55,4 +56,8 @@ HƯỚNG DẪN CHẠY DỰ ÁN SNAKE AI (Snake Ai game)
 https://github.com/hayderkharrufa/snake_pathfinding_ai
 https://www.youtube.com/watch?v=L8ypSXwyBds&t=423s
 https://www.youtube.com/watch?v=bfRwxS5d0SI&t=482s
+### 0. **Bài tập cá nhân**:
+[Baitapcanhan.py](https://github.com/user-attachments/files/22948445/Baitapcanhan.py)
+
+
 
