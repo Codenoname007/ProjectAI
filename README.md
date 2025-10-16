@@ -51,5 +51,8 @@ HƯỚNG DẪN CHẠY DỰ ÁN SNAKE AI (Snake Ai game)
    python main.py
 5) Chạy benchmark (xuất results.csv và results.png):
    python benchmark.py
-
+### 7. **Tài liệu tham khảo**
+https://github.com/hayderkharrufa/snake_pathfinding_ai
+https://www.youtube.com/watch?v=L8ypSXwyBds&t=423s
+https://www.youtube.com/watch?v=bfRwxS5d0SI&t=482s
 
